@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import Culturist from './Culturist';
 // import LandingPage, { popularCities } from './LandingPage';
-import LandingPage, {popularCities} from './Landingpage';
+// import LandingPage, {popularCities} from './Landingpage';
+import LandingPage from './Landingpage';
+import { popularCities } from './Landingpage';
 
 // jsiis
 
